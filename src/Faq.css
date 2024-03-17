@@ -1,0 +1,6 @@
+#show{
+    height: auto !important;
+    transform: scaleY(1) !important;
+    transition: all .2s;
+    padding: 10px 20px;
+}
